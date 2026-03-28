@@ -9,7 +9,7 @@ description = "Extract Widevine L3 keys from Android devices effortlessly, spann
 license = "MIT"
 authors = ["hyugogirubato <65763543+hyugogirubato@users.noreply.github.com>"]
 readme = "README.md"
-repository = "https://github.com/hyugogirubato/KeyDive"
+repository = "https://github.com/Crunchyrool-Downloader/Crunchyrool-Downloader"
 keywords = ["python", "drm", "widevine", "google"]
 classifiers = [
     "Development Status :: 5 - Production/Stable",
@@ -28,10 +28,10 @@ include = [
 ]
 
 [tool.poetry.urls]
-"Issues" = "https://github.com/hyugogirubato/KeyDive/issues"
-"Packages" = "https://github.com/hyugogirubato/KeyDive/blob/main/docs/PACKAGE.md"
-"Functions" = "https://github.com/hyugogirubato/KeyDive/blob/main/docs/FUNCTIONS.md"
-"Changelog" = "https://github.com/hyugogirubato/KeyDive/blob/main/CHANGELOG.md"
+"Issues" = "https://github.com/Crunchyrool-Downloader/Crunchyrool-Downloader/issues"
+"Packages" = "https://github.com/Crunchyrool-Downloader/Crunchyrool-Downloader/blob/main/docs/PACKAGE.md"
+"Functions" = "https://github.com/Crunchyrool-Downloader/Crunchyrool-Downloader/blob/main/docs/FUNCTIONS.md"
+"Changelog" = "https://github.com/Crunchyrool-Downloader/Crunchyrool-Downloader/blob/main/CHANGELOG.md"
 
 [tool.poetry.dependencies]
 python = ">=3.8,<4.0"
